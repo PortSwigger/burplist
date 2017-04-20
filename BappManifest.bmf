@@ -4,7 +4,7 @@ Name: Wordlist Extractor
 RepoName: wordlist-extractor
 ScreenVersion: 1.0
 SerialVersion: 1
-MinPlatformVersion: 0
+MinPlatformVersion: 2
 ProOnly: False
 Author: Patrick Grech, Pentest Ltd.
 ShortDescription: Scrapes all unique words and numbers for use with password cracking
