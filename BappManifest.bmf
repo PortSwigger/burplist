@@ -6,6 +6,6 @@ ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 2
 ProOnly: False
-Author: Patrick Grech, Pentest Ltd.
+Author: Patrick Grech, Secarma Ltd.
 ShortDescription: Scrapes all unique words and numbers for use with password cracking
 EntryPoint: burpList.py
